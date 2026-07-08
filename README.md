@@ -3,7 +3,7 @@
 ## TL;DR
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/dajkan/dualis_todoapp.git
 cd todo-vue-app
 npm install
 npm run start
