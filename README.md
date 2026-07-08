@@ -1,21 +1,40 @@
-tldr:
+# Vue To-Do Lista
+
+## TL;DR
+
+```bash
 git clone <repo-url>
 cd todo-vue-app
 npm install
 npm run start
+```
 
+## Install
 
-install:
+```bash
 npm install
+```
 
-api + vue egyszerre:
+## API + Vue egyszerre
+
+```bash
 npm run start
+```
 
-tesztelés:
+## Tesztelés
+
+```bash
 npm run test:unit
+```
 
-browser:
+## Browser
+
+```
 localhost:5173
+```
 
-rest api:
+## REST API
+
+```
 localhost:3001
+```
