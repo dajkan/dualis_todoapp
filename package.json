@@ -5,6 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "api": "json-server --watch db.json --port 3001",
+    "start": "concurrently \"npm run api\" \"npm run dev\"",
     "build": "vite build",
     "preview": "vite preview",
     "test:unit": "vitest",
@@ -14,6 +16,7 @@
     "format": "oxfmt src/"
   },
   "dependencies": {
+    "concurrently": "^10.0.3",
     "vue": "^3.5.38"
   },
   "devDependencies": {

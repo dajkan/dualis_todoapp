@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Vue projekt létrehozása",
+      "completed": true
+    },
+    {
+      "id": "2",
+      "title": "Komponensek elkészítése",
+      "completed": true
+    },
+    {
+      "title": "macska",
+      "completed": false,
+      "id": "BD3VgAx"
+    }
+  ]
+}
