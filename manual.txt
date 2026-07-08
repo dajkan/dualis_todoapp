@@ -1,0 +1,8 @@
+api + vue egyszerre:
+npm run start
+
+tesztelés:
+npm run test:unit
+
+browser:
+localhost:5173
